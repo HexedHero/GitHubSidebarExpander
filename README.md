@@ -4,4 +4,4 @@ Automatically expands the GitHub's main page sidebar and removes the ugly visual
 
 Sick of clicking that "Show more" button and having that ugly scrollbar visible? Use this.
 
-Install: TBA
+Install: https://chrome.google.com/webstore/detail/github-sidebar-expander/cdjfafpgfpcpbcebamlfcepnglcamlij/
